@@ -1,4 +1,4 @@
-<p align='center'>
+<p align='center' height='130px' width='130px'>
 <img src='/public/logo.svg'/>
 </p>
 
